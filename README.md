@@ -1,0 +1,2 @@
+# NegociacaoTS
+Treinamento em TypeScript
